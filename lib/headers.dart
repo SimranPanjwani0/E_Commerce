@@ -1,0 +1,9 @@
+export 'package:flutter/material.dart';
+export 'package:e_com_rev/views/screens/homepage.dart';
+export 'package:e_com_rev/utils/routs.dart';
+export 'package:e_com_rev/utils/colors.dart';
+export 'package:e_com_rev/utils/product.dart';
+export 'package:e_com_rev/views/screens/detailpage.dart';
+export 'package:flutter_rating_bar/flutter_rating_bar.dart';
+export 'package:e_com_rev/views/screens/cartpage.dart';
+export 'dart:math';
